@@ -5,8 +5,6 @@ Das Tiefenbild wird mit Python erzeugt, die Analyse erfolgt mit C++ und die Audi
 
 ![](https://github.com/NanaMuffin/BlindSpot/blob/master/posterBlindSpot.jpg)
 
-![embed]http://example.com/file.pdf[/embed]
-
-[Intro.pdf](https://github.com/NanaMuffin/BlindSpot/blob/master/BlindSpot_Dokumentation.pdf)
+[Dokumentation.pdf](https://github.com/NanaMuffin/BlindSpot/blob/master/BlindSpot_Dokumentation.pdf)
 
 
