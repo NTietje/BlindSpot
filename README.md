@@ -4,3 +4,6 @@ Unser Projekt BlindSpot soll eine Person vor nahen Objekten warnen und erforsche
 Das Tiefenbild wird mit Python erzeugt, die Analyse erfolgt mit C++ und die Audioausgabe läuft über Javascript. Alle Code-Bestandteile laufen dabei über denselben Rechner.
 
 ![](https://github.com/NanaMuffin/BlindSpot/blob/master/posterBlindSpot.jpg=250x300)
+![](https://github.com/NanaMuffin/BlindSpot/blob/master/posterBlindSpot.jpg){:class="img-responsive"}
+![](https://github.com/NanaMuffin/BlindSpot/blob/master/posterBlindSpot.jpg){:height="50%" width="50%"}
+![](https://github.com/NanaMuffin/BlindSpot/blob/master/posterBlindSpot.jpg){:height="500px" width="380px"}
