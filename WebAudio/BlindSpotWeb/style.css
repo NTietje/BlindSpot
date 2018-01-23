@@ -1,0 +1,73 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    background: white;
+    color: rgba(0,0,0,0.8);
+}
+
+button, select {
+    background-color: #01afb9;
+    border: none;
+    color: #ffffff;
+    font-family: monospace;
+    font-size: 2.2em;
+    padding: 0.2em 1em;
+}
+
+label {
+    font-family: monospace;
+    color: rgba(0,0,0,0.8);
+    font-size: 2.2em;
+}
+
+button:active {
+    background: #ffffff;
+    color: #01afb9;
+}
+
+button,select:focus {
+    outline:0;
+}
+
+ul {
+    font-family: monospace;
+    font-size: 2em;
+    text-align: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: rgba(0,0,0,0.15);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #01afb9;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+#mainContainer {
+    margin-left: 28%;
+    padding-top: 35px;
+}
+#headline {
+    margin-left: 15px;
+    color: rgba(0,0,0,0.8);
+    font-size: 1.7em;
+    font-weight: bold;
+}

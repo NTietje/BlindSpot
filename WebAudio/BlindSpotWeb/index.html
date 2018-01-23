@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Blind Spot</title>
+    </head>
+    <body>
+        <!-- Navigation -->
+        <ul>
+            <label id="headline">Blind Spot</label>
+            <li><a href="index.html" class="active">Camera controlled</a></li>
+        </ul>
+
+        <div id="mainContainer">
+
+            <!--Select sound-->
+            <label for="sounds">Sound:</label>
+            <select id="sounds" size="1">
+                <option value="sonar1">Sonar 1</option>
+                <option value="sonar2">Sonar 2</option>
+                <option value="beat">Beat</option>
+            </select>
+
+            <!--Scripts-->
+            <script src="../resonanceAudioWebSDK/build/resonance-audio.min.js"></script>
+            <script src="js/audio3d.js"></script>
+            <script src="js/midi.js"></script>
+            <script src="js/midiCalculator.js"></script>
+            <!--------------------------------------->
+        </div>
+    </body>
+</html>
